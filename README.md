@@ -8,11 +8,11 @@ The docker image contains the following installations:
 
 - [x] Prefect
 - [x] Jupyter
-[x] Pandas
-[x] Tensorflow
-[x] Pytorch
-[x] Plotly
-[x] Boto3
-[x] Numpy
-[x] Scipy
-[x] Opencv
+- [x] Pandas
+- [x] Tensorflow
+- [x] Pytorch
+- [x] Plotly
+- [x] Boto3
+- [x] Numpy
+- [x] Scipy
+- [x] Opencv
