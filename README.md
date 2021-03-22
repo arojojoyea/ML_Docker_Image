@@ -7,7 +7,7 @@ This docker file was designed to create a machine learning docker image, and by 
 The docker image contains the following installations:
 
 - [x] Prefect
-[x] Jupyter
+- [x] Jupyter
 [x] Pandas
 [x] Tensorflow
 [x] Pytorch
