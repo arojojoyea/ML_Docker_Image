@@ -9,7 +9,7 @@ This docker file was designed to create a machine learning docker image, and by 
 The docker image contains the following installations:
 
 
- Markup : - [x] Prefect
+          - [x] Prefect
           - [x] Jupyter
           - [x] Pandas
           - [x] Tensorflow
