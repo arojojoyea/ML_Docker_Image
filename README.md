@@ -8,14 +8,13 @@ This docker file was designed to create a machine learning docker image, and by 
 **<h2>The Constituents</h2>**
 The docker image contains the following installations:
 
-
-          - [x] Prefect
-          - [x] Jupyter
-          - [x] Pandas
-          - [x] Tensorflow
-          - [x] Pytorch
-          - [x] Plotly
-          - [x] Boto3
-          - [x] Numpy
-          - [x] Scipy
-          - [x] Opencv
+[x] Prefect
+[x] Jupyter
+[x] Pandas
+[x] Tensorflow
+[x] Pytorch
+[x] Plotly
+[x] Boto3
+[x] Numpy
+[x] Scipy
+[x] Opencv
