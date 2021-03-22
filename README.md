@@ -9,13 +9,13 @@ This docker file was designed to create a machine learning docker image, and by 
 The docker image contains the following installations:
 
 
- Markup : * Prefect
-          * Jupyter
-          * Pandas
-          * Tensorflow
-          * Pytorch
-          * Plotly
-          * Boto3
-          * Numpy
+ Markup : - [x] Prefect
+          - [x] Jupyter
+          - [x] Pandas
+          - [x] Tensorflow
+          - [x] Pytorch
+          - [x] Plotly
+          - [x] Boto3
+          - [x] Numpy
           - [x] Scipy
           - [x] Opencv
